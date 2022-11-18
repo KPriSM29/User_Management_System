@@ -1,1 +1,0 @@
-CREATE TABLE `User_Management_System`.`User_Info` (`Id` INT NOT NULL AUTO_INCREMENT , `First_Name` VARCHAR(45) NOT NULL , `Last_Name` VARCHAR(45) NOT NULL , `E-Mail` VARCHAR(45) NOT NULL , PRIMARY KEY (`Id`)) ENGINE = InnoDB;

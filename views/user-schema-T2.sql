@@ -1,1 +1,0 @@
-CREATE TABLE `User_Management_System`.`Table_2` (`Id` INT NOT NULL AUTO_INCREMENT , `Phone_Number` INT(10) NOT NULL , `Comments` TEXT NOT NULL , `Status` VARCHAR(45) NOT NULL DEFAULT 'active' , PRIMARY KEY (`Id`)) ENGINE = InnoDB;
